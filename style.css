@@ -17,3 +17,11 @@ section{
 .name{
     color: orange;
 }
+.hire-me-buttom{
+    text-decoration: none;
+    color: white;
+    width: 700;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5%;
+}
