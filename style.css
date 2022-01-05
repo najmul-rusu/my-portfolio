@@ -18,19 +18,19 @@ h2{
     padding-right: 5%;
 }
 .half-width img{
-    width: 75%;
+    width: 100%;
 }
 .name{
-    color: orange;
+    color: #6d6d6d;
 }
 .orange-color{
-    color: orange;
+    color: #4e4e4e;
 }
 .link-buttom{
     text-decoration: none;
     color: white;
     width: 700;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(#686868, #000000);
     padding: 10px 40px;
     border-radius: 5%;
 }
@@ -42,6 +42,9 @@ h2{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+#p-padding{
+    padding-right: 40px;
 }
 .experience-items{
     width: 40%;
@@ -58,12 +61,12 @@ h2{
 }
 #web-dev-ex{
     border-left: 7px solid;
-    border-image: linear-gradient(blue, cyan);
+    border-image: linear-gradient(#bbbbbb, #000000);
     border-image-slice: 1;
 }
 #web-dev{
     border-left: 7px solid;
-    border-image: linear-gradient(tomato, orange);
+    border-image: linear-gradient(#000000, #afafaf);
     border-image-slice: 1;
 }
 #ex{
